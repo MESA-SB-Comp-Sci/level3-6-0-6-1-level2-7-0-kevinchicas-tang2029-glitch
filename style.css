@@ -4,4 +4,32 @@
     margin: 0;
 }
 
-/* write all your rules below */
+h1{
+    background-color: pink;
+    border: solid red 5px;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+#D1{
+    background-color: aqua;
+    padding: 125px;
+    
+}
+
+#D2{
+    background-color: yellow;
+    border: 5px pink solid;
+    padding: 50px;
+    margin-right: 400px;
+    margin-left: 20px;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: green;
+}
+.p3{
+    color: purple;
+}
